@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "docusaurus-init": "1.0.1",
+    "npx": "10.2.0"
+  },
+  "scripts":{
+    "start": "cd website && npm start"
+  }
+}
