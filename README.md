@@ -3,7 +3,7 @@
 
 ## Quick Start
 
-1. Clone the repository with `git clone --depth=1 https://github.com/joshuaalpuerto/repro-docusaurus.git`
+1. Clone the repository with `git clone git@github.com:joshuaalpuerto/repro-docusaurus.git`
 2. `npm install`
 3. will load `http://localhost:3000/docs/doc1.html`
 4. change `website/siteConfig.js`
